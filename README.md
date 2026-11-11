@@ -1,5 +1,7 @@
 ﻿# Clerk
 
+[Live website](https://clerk-one-theta.vercel.app)
+
 Clerk is a simple AI assistant made for the CS4680 AI Agent Project. You can type a request in plain English to manage tasks and notes, export files, or check the weather.
 
 It uses React, JavaScript, Gemini, and Vercel Functions.
